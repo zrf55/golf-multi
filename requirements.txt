@@ -1,0 +1,14 @@
+selenium
+selenium.webdriver.support.ui
+selenium.webdriver.support
+selenium.webdriver.common.by
+selenium.webdriver.common.keys
+time
+datetime
+smtplib
+ssl
+email.message
+streamlit
+GolfClassMulti
+emoji
+re
